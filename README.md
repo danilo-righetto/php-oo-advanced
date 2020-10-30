@@ -1,21 +1,42 @@
-## PHP - Avançando com OO
-Um simples ambiente de desenvolvimento PHP utilizando:
+<h1 align="center">
+    <img alt="Danilo Righetto" title="Danilo Righetto" src=".github/logo.svg" />
+</h1>
 
-* CSS
-* HTML
-* PHP
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-fonte">Fonte</a>
+</p>
 
-## Utilização
-* clone este repositório: `https://github.com/righetto93/php-oo-advanced`
-* Dentro da pasta onde encontra-se o arquivo index.html
-* Use o comando: php-S localhost:8080
-* acesse no seu navegador a página: http://numero-do-ip:8080
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
 
-## Variaveis de ambiente
-Na variavel "Path" adicione o caminho onde está o arquivo "php.exe"
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
+</p>
 
-## Autor
-Danilo Righetto - Web Developer
+<br>
 
-##Fonte
-https://www.schoolofnet.com/courses/php-avancando-com-oo
+<p align="center">
+  <img alt="Danilo Righetto" src=".github/logo.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [PHP 7](https://www.php.net)
+
+## 💻 Projeto
+
+O projeto visa o aprendizado e do **PHP** com orientação a objetos 💜
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+## Fonte
+
+Veja [aqui](https://www.php.net) para mais informações.
